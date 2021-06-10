@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body{
+			background-color: #FAFAD2;
+		}
+	</style>
+</head>
+<body>
+	<a HREF="m11.html" target="aa"> 특징 </a> <p>
+	<a HREF="m22.html" target="aa"> 좋아하는 것 </a> <p>
+	<a HREF="m33.html" target="aa"> 싫어하는 것 </a> <p>
+	<a HREF="m44.html" target="aa"> 버릇 </a> <p>
+
+</body>
+</html>
